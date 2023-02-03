@@ -1,0 +1,11 @@
+.error{
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-left: 10rem;
+}
+.backbtn{
+    height: 5vh;
+    margin-top: 10rem;
+}

@@ -1,0 +1,18 @@
+.search-container{
+    display: flex;
+    justify-content: center;
+
+width: 90vw;}
+
+.search-container input{
+    font-size: 20px;
+    width: 24vw;
+}
+
+.food-items img{
+    margin: 50px;
+    display: flex;
+}
+.food-items-result{
+    width: 99%;
+}
